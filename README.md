@@ -2,8 +2,8 @@
 
 <H1 ALIGN=CENTER> Experiment-5: Implementation of Kalman filter </H1>
 
-### Name: 
-### Register Number:
+### Name: Subha shree U
+### Register Number: 2305002025
 
 
 ## Aim:
@@ -77,6 +77,9 @@ plt.show()
 ___
 
 ## Output:
+
+<img width="543" height="413" alt="image" src="https://github.com/user-attachments/assets/eb7d065e-04d8-4392-9b74-af6ad88a4773" />
+
 
 ---
 
